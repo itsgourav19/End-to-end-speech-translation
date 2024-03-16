@@ -41,7 +41,11 @@ Li, J. and others (2022). Direct Translation of Speech to Speech Using Generativ
 
 
 [1.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622024/1.pdf)
+
 [2.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622028/2.pdf)
+
 [3.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622027/3.pdf)
+
 [4.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622026/4.pdf)
+
 [5.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622025/5.pdf)
