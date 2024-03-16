@@ -11,9 +11,13 @@ Conventional voice translation systems usually require more than one stage, such
 You'll need the following in order to run the code in this repository:
 
 Python 3.x (or above)
+
 PyTorch (more than 1.8)
+
 Hugging Face Transformers library (version >= 4.0)
+
 Librosa (more than 0.8)
+
 Additional dependencies listed in requirements.txt
 
 **Usage**
@@ -30,4 +34,14 @@ Inference: Apply the learned models to fresh voice inputs in batch or real-time.
 Li, J. and others (2022). Direct Translation of Speech to Speech Using Generative Models. The International Conference on Machine Learning (ICML) Proceedings
 
 
+#Resources used are:---
 
+
+
+
+
+[1.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622024/1.pdf)
+[2.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622028/2.pdf)
+[3.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622027/3.pdf)
+[4.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622026/4.pdf)
+[5.pdf](https://github.com/itsgourav19/End-to-end-speech-translation/files/14622025/5.pdf)
